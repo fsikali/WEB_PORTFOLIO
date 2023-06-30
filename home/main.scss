@@ -2,7 +2,9 @@ $primary-color: red;
 $primary-color1:blue; 
 $primary-color2:pink;  
 $primary-color3:white;
-$padding1: 15px;
+$padding1: 15px; 
+$padding1: 35px;
+
 
  
 /*.container-fluid{ 
@@ -10,13 +12,14 @@ $padding1: 15px;
 }  */ 
 
 .row{ 
-    padding: $padding1;
+    padding: $padding2; 
+    
     
 }
  
 .col-sm-12{  
     text-align: center;  
-    color: $primary-color3; 
+    color: $primary-color; 
     font-size: 15px 5px;
 }
 
