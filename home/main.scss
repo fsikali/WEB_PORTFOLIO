@@ -1,5 +1,38 @@
-$primary-color: blue; 
+$primary-color: red;
+$primary-color1:blue; 
+$primary-color2:pink;  
+$primary-color3:white;
+$padding1: 15px;
+
  
-.container{ 
-    color : $primary-color;
+/*.container-fluid{ 
+    padding: $padding1;
+}  */ 
+
+.row{ 
+    padding: $padding1;
+    
 }
+ 
+.col-sm-12{  
+    text-align: center;  
+    color: $primary-color3; 
+    font-size: 15px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
